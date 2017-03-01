@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  memoable_tyoe: MyString
+  memoable_id: 1
+  body: MyString
+
+two:
+  memoable_tyoe: MyString
+  memoable_id: 1
+  body: MyString
